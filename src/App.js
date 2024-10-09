@@ -1,10 +1,11 @@
-import FAQS from './components/FAQS'
+import React from 'react'
+import Form from './Components/Form/Form';
 
 function App() {
+
   return (
     <div>
-        <FAQS />
-     
+     <Form />
     </div>
   );
 }
